@@ -22,7 +22,7 @@ class Ball(Turtle):
 
     def bounce_x(self):
         self.x_move *= -1
-        self.move_speed *= 0.85
+        self.move_speed *= 0.80
 
 
     def reset_position(self):
