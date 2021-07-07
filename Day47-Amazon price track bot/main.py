@@ -4,8 +4,8 @@ import lxml
 import json
 import smtplib
 
-S_EMAIL = "jingnasong805@gmail.com"
-S_PASS = "Sjn18275771142"
+S_EMAIL = ""
+S_PASS = ""
 URL = "https://www.macys.com/shop/product/lancome-absolue-revitalizing-brightening-soft-cream-with-grand-rose-extracts-2-oz.?ID=7796308&CategoryID=30078"
 header = {
     "User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
