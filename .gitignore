@@ -1,0 +1,10 @@
+# Python related
+*.pyc
+
+# Web related
+*.html
+*.css
+*.js
+
+# Cache
+*.DS_Store
