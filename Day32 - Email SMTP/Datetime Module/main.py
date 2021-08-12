@@ -40,7 +40,7 @@ with open("quotes.txt", 'r') as data:
 if current_day_of_week == 3:
 
     my_email = "jingnasong805@gmail.com"
-    password = "Sjn18275771142"
+    password = "***************"
     with smtplib.SMTP("smtp.gmail.com") as connection:
         connection.starttls()
         connection.login(user=my_email, password=password)
